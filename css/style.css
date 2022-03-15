@@ -76,6 +76,7 @@ h2 {
 .Resto {
     flex-direction: row;
     background-color: rgb(238, 234, 234);
+   
 }  
 
 .card{
@@ -91,7 +92,7 @@ h2 {
 
 
 .bas {
-    text-align: left;
+    text-align: center;
     background-color: rgb(63, 61, 61);
     color: white;
 }
